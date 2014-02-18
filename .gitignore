@@ -1,0 +1,10 @@
+.mortar-local
+.DS_Store
+*.pyc
+*.class
+*.log
+tmp
+logs
+illustrate-output
+data/retail/out
+udfs/java/target
